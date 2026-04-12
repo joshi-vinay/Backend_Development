@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/app/utilities/respose-handler.ts"],"sourcesContent":["export class ResponseHandler{\n    constructor(\n        public data: any,\n        public err ?: any\n    ){\n        \n    }\n}"],"names":["ResponseHandler","data","err"],"mappings":"AAAA,OAAO,MAAMA;;;IACT,YACI,AAAOC,IAAS,EAChB,AAAOC,GAAU,CACpB;aAFUD,OAAAA;aACAC,MAAAA;IAGX;AACJ"}
