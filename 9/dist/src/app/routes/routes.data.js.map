@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/app/routes/routes.data.ts"],"sourcesContent":["\nimport authRoutes from \"../feature-modules/auth/auth.routes.js\";\nimport type { Routes } from \"./routes.types.js\";\n\n\nexport const routes : Routes = [authRoutes]\n\n"],"names":["authRoutes","routes"],"mappings":"AACA,OAAOA,gBAAgB,yCAAyC;AAIhE,OAAO,MAAMC,SAAkB;IAACD;CAAW,CAAA"}
