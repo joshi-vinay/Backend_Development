@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/index.ts"],"sourcesContent":["import {config} from \"dotenv\"\n\nconfig()\n\nconst appModule = await import(\"./app/app.js\");\n\nappModule.startServer();"],"names":["config","appModule","startServer"],"mappings":"AAAA,SAAQA,MAAM,QAAO,SAAQ;AAE7BA;AAEA,MAAMC,YAAY,MAAM,MAAM,CAAC;AAE/BA,UAAUC,WAAW"}
