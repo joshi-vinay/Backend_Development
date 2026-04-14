@@ -10,7 +10,7 @@
     "dev": "nodemon --watch src --ext ts --exec \"pnpm build && pnpm start\""
   },
   "type": "module",
-  "keywords": [],
+  "keywords": [],  
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.33.0",
